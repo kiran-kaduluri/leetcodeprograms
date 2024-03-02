@@ -5,7 +5,6 @@ class Solution:
             lt=i*i
             l.append(lt)
             l.sort()
-
         return l    
 
 
