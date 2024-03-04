@@ -4,7 +4,7 @@ class Solution:
         for i in nums:
             lt=i*i
             l.append(lt)
-            l.sort()
+        l.sort()
         return l    
 
 
