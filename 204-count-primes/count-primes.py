@@ -5,7 +5,7 @@ class Solution:
         c=[1]*(n)
         c[0]=0
         c[1]=0
-        for i in range(2,n):
+        for i in range(2,int(n**0.5)+1):
             if c[i]:
                 for j in range(i*i,n,i):
                     c[j]=0
