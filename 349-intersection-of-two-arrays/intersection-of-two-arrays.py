@@ -6,5 +6,4 @@ class Solution:
                 if i == j:
                     l.append(i)
                     break
-
         return set(l)    
