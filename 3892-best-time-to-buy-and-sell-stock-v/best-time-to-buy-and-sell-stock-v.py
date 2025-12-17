@@ -1,3 +1,5 @@
+from typing import List
+
 class Solution:
     def maximumProfit(self, prices: List[int], k: int) -> int:
         n = len(prices)
@@ -22,4 +24,3 @@ class Solution:
                 best_sell = max(best_sell, dp[t - 1][i - 1] + prices[i])
 
         return dp[k][n - 1]
-        
