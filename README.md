@@ -33,6 +33,7 @@ leetcodeprograms
 |  |
 | ------- |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -47,9 +48,14 @@ leetcodeprograms
 ## Sorting
 |  |
 | ------- |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Two Pointers
 |  |
 | ------- |
 | [3643-flip-square-submatrix-vertically](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3643-flip-square-submatrix-vertically) |
+## Hash Table
+|  |
+| ------- |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 <!---LeetCode Topics End-->
