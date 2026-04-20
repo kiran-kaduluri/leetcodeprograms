@@ -14,6 +14,7 @@ leetcodeprograms
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -67,4 +68,8 @@ leetcodeprograms
 |  |
 | ------- |
 | [3783-mirror-distance-of-an-integer](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3783-mirror-distance-of-an-integer) |
+## Greedy
+|  |
+| ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2078-two-furthest-houses-with-different-colors) |
 <!---LeetCode Topics End-->
