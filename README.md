@@ -37,6 +37,7 @@ leetcodeprograms
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0020-valid-parentheses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -75,4 +76,8 @@ leetcodeprograms
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2078-two-furthest-houses-with-different-colors) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
