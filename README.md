@@ -12,6 +12,7 @@ leetcodeprograms
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0048-rotate-image) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -80,4 +81,8 @@ leetcodeprograms
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
