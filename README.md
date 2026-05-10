@@ -21,6 +21,7 @@ leetcodeprograms
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2733-neither-minimum-nor-maximum) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3643-flip-square-submatrix-vertically) |
@@ -91,6 +92,7 @@ leetcodeprograms
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Design
 |  |
 | ------- |
