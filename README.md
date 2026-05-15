@@ -13,6 +13,7 @@ leetcodeprograms
 | ------- |
 | [0048-rotate-image](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0303-range-sum-query-immutable](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0724-find-pivot-index) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
@@ -100,4 +101,8 @@ leetcodeprograms
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0303-range-sum-query-immutable) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
