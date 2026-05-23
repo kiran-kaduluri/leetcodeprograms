@@ -19,6 +19,7 @@ leetcodeprograms
 | [0303-range-sum-query-immutable](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0724-find-pivot-index) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2078-two-furthest-houses-with-different-colors) |
