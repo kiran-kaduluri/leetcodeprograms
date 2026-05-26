@@ -56,6 +56,7 @@ leetcodeprograms
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -87,6 +88,7 @@ leetcodeprograms
 | [2784-check-if-array-is-good](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Math
 |  |
