@@ -30,6 +30,7 @@ leetcodeprograms
 | [2784-check-if-array-is-good](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3643-flip-square-submatrix-vertically) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -96,6 +97,7 @@ leetcodeprograms
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0048-rotate-image) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3783-mirror-distance-of-an-integer](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3783-mirror-distance-of-an-integer) |
 ## Greedy
 |  |
