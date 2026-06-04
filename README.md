@@ -105,6 +105,7 @@ leetcodeprograms
 | ------- |
 | [0048-rotate-image](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0048-rotate-image) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3783-mirror-distance-of-an-integer) |
 ## Greedy
 |  |
@@ -122,6 +123,7 @@ leetcodeprograms
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Design
 |  |
 | ------- |
@@ -138,4 +140,8 @@ leetcodeprograms
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
