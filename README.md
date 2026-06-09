@@ -37,6 +37,7 @@ leetcodeprograms
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3643-flip-square-submatrix-vertically) |
+| [3689-maximum-total-subarray-value-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3689-maximum-total-subarray-value-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Queue
 |  |
@@ -118,6 +119,7 @@ leetcodeprograms
 | [2126-destroying-asteroids](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3689-maximum-total-subarray-value-i) |
 ## Stack
 |  |
 | ------- |
