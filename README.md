@@ -110,6 +110,7 @@ leetcodeprograms
 | ------- |
 | [0048-rotate-image](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0048-rotate-image) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3783-mirror-distance-of-an-integer) |
 ## Greedy
@@ -158,4 +159,12 @@ leetcodeprograms
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2161-partition-array-according-to-given-pivot) |
+## Tree
+|  |
+| ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 <!---LeetCode Topics End-->
