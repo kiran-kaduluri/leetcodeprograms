@@ -60,6 +60,7 @@ leetcodeprograms
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0020-valid-parentheses) |
+| [1189-maximum-number-of-balloons](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1189-maximum-number-of-balloons) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -103,6 +104,7 @@ leetcodeprograms
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0141-linked-list-cycle) |
+| [1189-maximum-number-of-balloons](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1189-maximum-number-of-balloons) |
 | [2540-minimum-common-value](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -177,4 +179,8 @@ leetcodeprograms
 |  |
 | ------- |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
