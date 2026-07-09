@@ -37,6 +37,7 @@ leetcodeprograms
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3643-flip-square-submatrix-vertically) |
@@ -120,6 +121,7 @@ leetcodeprograms
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Math
 |  |
@@ -162,6 +164,7 @@ leetcodeprograms
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [2540-minimum-common-value](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2540-minimum-common-value) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Trie
 |  |
@@ -195,4 +198,12 @@ leetcodeprograms
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2287-rearrange-characters-to-make-target-string) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
