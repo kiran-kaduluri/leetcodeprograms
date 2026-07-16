@@ -130,6 +130,7 @@ leetcodeprograms
 | [1344-angle-between-hands-of-a-clock](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3783-mirror-distance-of-an-integer) |
@@ -207,4 +208,8 @@ leetcodeprograms
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
