@@ -19,6 +19,7 @@ leetcodeprograms
 | [0303-range-sum-query-immutable](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0724-find-pivot-index) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1260-shift-2d-grid](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1288-remove-covered-intervals) |
 | [1732-find-the-highest-altitude](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -84,6 +85,7 @@ leetcodeprograms
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0048-rotate-image) |
+| [1260-shift-2d-grid](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1260-shift-2d-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -191,6 +193,7 @@ leetcodeprograms
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1260-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3612-process-string-with-special-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
