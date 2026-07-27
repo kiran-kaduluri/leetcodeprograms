@@ -22,6 +22,7 @@ leetcodeprograms
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1260-shift-2d-grid](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1288-remove-covered-intervals) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -98,6 +99,7 @@ leetcodeprograms
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1288-remove-covered-intervals) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -238,4 +240,8 @@ leetcodeprograms
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
