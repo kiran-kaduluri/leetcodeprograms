@@ -80,6 +80,7 @@ leetcodeprograms
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3612-process-string-with-special-operations-i) |
 ## Backtracking
 |  |
@@ -106,6 +107,7 @@ leetcodeprograms
 | [2733-neither-minimum-nor-maximum](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2733-neither-minimum-nor-maximum) |
 | [2784-check-if-array-is-good](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -244,4 +246,8 @@ leetcodeprograms
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
