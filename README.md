@@ -69,6 +69,7 @@ leetcodeprograms
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0058-length-of-last-word) |
 | [0316-remove-duplicate-letters](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1189-maximum-number-of-balloons) |
