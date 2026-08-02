@@ -19,6 +19,7 @@ leetcodeprograms
 | [0303-range-sum-query-immutable](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0303-range-sum-query-immutable) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0724-find-pivot-index) |
+| [0877-stone-game](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0877-stone-game) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1260-shift-2d-grid](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1288-remove-covered-intervals) |
@@ -144,6 +145,7 @@ leetcodeprograms
 | ------- |
 | [0048-rotate-image](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0048-rotate-image) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -177,6 +179,7 @@ leetcodeprograms
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0877-stone-game) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Design
@@ -254,4 +257,8 @@ leetcodeprograms
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
