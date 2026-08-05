@@ -74,6 +74,7 @@ leetcodeprograms
 | [0020-valid-parentheses](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0058-length-of-last-word) |
 | [0316-remove-duplicate-letters](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0316-remove-duplicate-letters) |
+| [0412-fizz-buzz](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0412-fizz-buzz) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -150,6 +151,7 @@ leetcodeprograms
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0048-rotate-image) |
+| [0412-fizz-buzz](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0877-stone-game) |
@@ -221,6 +223,7 @@ leetcodeprograms
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1260-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3612-process-string-with-special-operations-i) |
