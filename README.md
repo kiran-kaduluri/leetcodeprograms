@@ -159,6 +159,7 @@ leetcodeprograms
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -213,6 +214,7 @@ leetcodeprograms
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Linked List
 |  |
