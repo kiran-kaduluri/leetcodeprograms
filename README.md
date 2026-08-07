@@ -35,6 +35,7 @@ leetcodeprograms
 | [2126-destroying-asteroids](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2540-minimum-common-value) |
 | [2733-neither-minimum-nor-maximum](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2733-neither-minimum-nor-maximum) |
@@ -158,6 +159,7 @@ leetcodeprograms
 | [0877-stone-game](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3345-smallest-divisible-digit-product-i) |
