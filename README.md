@@ -19,6 +19,7 @@ leetcodeprograms
 | [0217-contains-duplicate](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0303-range-sum-query-immutable) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0877-stone-game) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
@@ -206,6 +207,7 @@ leetcodeprograms
 | [0033-search-in-rotated-sorted-array](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0704-binary-search](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0704-binary-search) |
 | [2540-minimum-common-value](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2540-minimum-common-value) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
