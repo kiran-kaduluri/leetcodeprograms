@@ -46,6 +46,7 @@ leetcodeprograms
 | [2784-check-if-array-is-good](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -242,6 +243,7 @@ leetcodeprograms
 | [0412-fizz-buzz](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1260-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3612-process-string-with-special-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
