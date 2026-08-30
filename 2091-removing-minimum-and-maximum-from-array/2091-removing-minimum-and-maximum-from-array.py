@@ -1,0 +1,14 @@
+class Solution:
+    def minimumDeletions(self, nums: List[int]) -> int:
+        n=len(nums)
+        if n == 1:
+            return 1
+        min_idx=nums.index(min(nums))
+        max_idx=nums.index(max(nums))
+        left=min(min_idx,max_idx)
+        right=max(min_idx,max_idx)
+        ff=right+1
+        fb=n-left
+        fbk=(left+1)+(n-right)
+        return min(ff,fb,fbk)
+        
