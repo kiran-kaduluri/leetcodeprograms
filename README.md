@@ -171,6 +171,7 @@ leetcodeprograms
 | ------- |
 | [0048-rotate-image](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0048-rotate-image) |
 | [0292-nim-game](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0628-maximum-product-of-three-numbers) |
@@ -308,6 +309,7 @@ leetcodeprograms
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
