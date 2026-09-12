@@ -50,6 +50,7 @@ leetcodeprograms
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -162,6 +163,7 @@ leetcodeprograms
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3731-find-missing-elements) |
@@ -244,6 +246,7 @@ leetcodeprograms
 | ------- |
 | [1291-sequential-digits](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Linked List
 |  |
@@ -312,6 +315,7 @@ leetcodeprograms
 | ------- |
 | [0326-power-of-three](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
