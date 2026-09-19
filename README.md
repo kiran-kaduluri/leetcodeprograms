@@ -19,6 +19,7 @@ leetcodeprograms
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0303-range-sum-query-immutable) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0724-find-pivot-index) |
@@ -120,6 +121,7 @@ leetcodeprograms
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1288-remove-covered-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -152,6 +154,7 @@ leetcodeprograms
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2287-rearrange-characters-to-make-target-string) |
