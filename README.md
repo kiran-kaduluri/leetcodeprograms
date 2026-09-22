@@ -96,6 +96,7 @@ leetcodeprograms
 | [1927-sum-game](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1927-sum-game) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -146,6 +147,7 @@ leetcodeprograms
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2540-minimum-common-value) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3643-flip-square-submatrix-vertically) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -209,6 +211,7 @@ leetcodeprograms
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3689-maximum-total-subarray-value-i) |
