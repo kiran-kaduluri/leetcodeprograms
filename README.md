@@ -93,6 +93,7 @@ leetcodeprograms
 | [0058-length-of-last-word](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0058-length-of-last-word) |
 | [0316-remove-duplicate-letters](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0316-remove-duplicate-letters) |
 | [0412-fizz-buzz](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0412-fizz-buzz) |
+| [0856-score-of-parentheses](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1189-maximum-number-of-balloons) |
@@ -229,6 +230,7 @@ leetcodeprograms
 | ------- |
 | [0020-valid-parentheses](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0316-remove-duplicate-letters) |
+| [0856-score-of-parentheses](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -364,6 +366,7 @@ leetcodeprograms
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
