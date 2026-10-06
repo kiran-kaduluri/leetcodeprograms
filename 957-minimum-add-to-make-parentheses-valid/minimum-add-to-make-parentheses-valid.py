@@ -1,15 +1,12 @@
 class Solution:
     def minAddToMakeValid(self, s: str) -> int:
-        op=0
-        mi=0
-        for c in s:
-            if c == '(':
-                op += 1
-            elif op > 0 :
-                op -= 1
+        c=dep=0
+        for i in range(len(s)):
+            if s[i] =='(':
+                dep+=1
+            elif s[i] == ')' and dep>0:
+                dep-=1
             else:
-                mi += 1
-        return op+mi                
-
-
+                c+=1
+        return c+dep
         
