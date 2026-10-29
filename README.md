@@ -38,6 +38,7 @@ leetcodeprograms
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -141,6 +142,7 @@ leetcodeprograms
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2733-neither-minimum-nor-maximum](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2733-neither-minimum-nor-maximum) |
@@ -266,6 +268,7 @@ leetcodeprograms
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0704-binary-search) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/2540-minimum-common-value) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
