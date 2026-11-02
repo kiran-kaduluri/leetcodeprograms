@@ -21,6 +21,7 @@ leetcodeprograms
 | [0217-contains-duplicate](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0303-range-sum-query-immutable) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0724-find-pivot-index) |
@@ -137,6 +138,7 @@ leetcodeprograms
 | ------- |
 | [0217-contains-duplicate](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1288-remove-covered-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -199,6 +201,7 @@ leetcodeprograms
 | [0292-nim-game](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0412-fizz-buzz) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/kiran-kaduluri/leetcodeprograms/tree/master/0836-rectangle-overlap) |
